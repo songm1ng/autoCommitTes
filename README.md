@@ -1,2 +1,1 @@
 # autoCommitTes
-nice cool
